@@ -1,0 +1,22 @@
+{
+  "started_utc": "2026-11-20T23:01:17.572695+00:00",
+  "completed_utc": "2026-11-20T23:01:21.434387+00:00",
+  "python": "3.13.17",
+  "os": "Windows",
+  "architecture": "AMD64",
+  "zlib_runtime": "1.3.1",
+  "repetitions": 7,
+  "corpus_seed": 20261120,
+  "operation_order_seed": 55130,
+  "corpora": 8,
+  "raw_timing_rows": 224,
+  "source_sha256_lf": {
+    "src/huffman_lab/codec.py": "007df4856d436b54a8a47ec631e2fe85e14d29c7098b47cb45d1f875290a8ea9",
+    "scripts/run_study.py": "36900faa3cabd83927daa9c6b457c513e228388afa80d9cee13dd2c1fd0fc08a"
+  },
+  "source_hash_policy": "UTF-8 source bytes with CRLF and CR normalized to LF, captured before measured calls",
+  "zlib_level": 9,
+  "scope": "In-memory end-to-end calls, one warmup, seeded shuffled operation order each repeat; no disk I/O timed",
+  "limitations": "Python codec versus native zlib; algorithm, implementation and validation costs differ. Not an algorithm-only speed comparison.",
+  "provenance": "All corpora generated synthetically by scripts/run_study.py; no external documents"
+}

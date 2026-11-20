@@ -1,0 +1,1400 @@
+0000 The test fixture contains repeated words and predictable separators.
+0001 Each record is generated for a controlled compression experiment.
+0002 The report compares a byte histogram with repeated byte sequences.
+0003 No document in this dataset comes from a person or an organization.
+0004 The test fixture contains repeated words and predictable separators.
+0005 Each record is generated for a controlled compression experiment.
+0006 The report compares a byte histogram with repeated byte sequences.
+0007 No document in this dataset comes from a person or an organization.
+0008 The test fixture contains repeated words and predictable separators.
+0009 Each record is generated for a controlled compression experiment.
+0010 The report compares a byte histogram with repeated byte sequences.
+0011 No document in this dataset comes from a person or an organization.
+0012 The test fixture contains repeated words and predictable separators.
+0013 Each record is generated for a controlled compression experiment.
+0014 The report compares a byte histogram with repeated byte sequences.
+0015 No document in this dataset comes from a person or an organization.
+0016 The test fixture contains repeated words and predictable separators.
+0017 Each record is generated for a controlled compression experiment.
+0018 The report compares a byte histogram with repeated byte sequences.
+0019 No document in this dataset comes from a person or an organization.
+0020 The test fixture contains repeated words and predictable separators.
+0021 Each record is generated for a controlled compression experiment.
+0022 The report compares a byte histogram with repeated byte sequences.
+0023 No document in this dataset comes from a person or an organization.
+0024 The test fixture contains repeated words and predictable separators.
+0025 Each record is generated for a controlled compression experiment.
+0026 The report compares a byte histogram with repeated byte sequences.
+0027 No document in this dataset comes from a person or an organization.
+0028 The test fixture contains repeated words and predictable separators.
+0029 Each record is generated for a controlled compression experiment.
+0030 The report compares a byte histogram with repeated byte sequences.
+0031 No document in this dataset comes from a person or an organization.
+0032 The test fixture contains repeated words and predictable separators.
+0033 Each record is generated for a controlled compression experiment.
+0034 The report compares a byte histogram with repeated byte sequences.
+0035 No document in this dataset comes from a person or an organization.
+0036 The test fixture contains repeated words and predictable separators.
+0037 Each record is generated for a controlled compression experiment.
+0038 The report compares a byte histogram with repeated byte sequences.
+0039 No document in this dataset comes from a person or an organization.
+0040 The test fixture contains repeated words and predictable separators.
+0041 Each record is generated for a controlled compression experiment.
+0042 The report compares a byte histogram with repeated byte sequences.
+0043 No document in this dataset comes from a person or an organization.
+0044 The test fixture contains repeated words and predictable separators.
+0045 Each record is generated for a controlled compression experiment.
+0046 The report compares a byte histogram with repeated byte sequences.
+0047 No document in this dataset comes from a person or an organization.
+0048 The test fixture contains repeated words and predictable separators.
+0049 Each record is generated for a controlled compression experiment.
+0050 The report compares a byte histogram with repeated byte sequences.
+0051 No document in this dataset comes from a person or an organization.
+0052 The test fixture contains repeated words and predictable separators.
+0053 Each record is generated for a controlled compression experiment.
+0054 The report compares a byte histogram with repeated byte sequences.
+0055 No document in this dataset comes from a person or an organization.
+0056 The test fixture contains repeated words and predictable separators.
+0057 Each record is generated for a controlled compression experiment.
+0058 The report compares a byte histogram with repeated byte sequences.
+0059 No document in this dataset comes from a person or an organization.
+0060 The test fixture contains repeated words and predictable separators.
+0061 Each record is generated for a controlled compression experiment.
+0062 The report compares a byte histogram with repeated byte sequences.
+0063 No document in this dataset comes from a person or an organization.
+0064 The test fixture contains repeated words and predictable separators.
+0065 Each record is generated for a controlled compression experiment.
+0066 The report compares a byte histogram with repeated byte sequences.
+0067 No document in this dataset comes from a person or an organization.
+0068 The test fixture contains repeated words and predictable separators.
+0069 Each record is generated for a controlled compression experiment.
+0070 The report compares a byte histogram with repeated byte sequences.
+0071 No document in this dataset comes from a person or an organization.
+0072 The test fixture contains repeated words and predictable separators.
+0073 Each record is generated for a controlled compression experiment.
+0074 The report compares a byte histogram with repeated byte sequences.
+0075 No document in this dataset comes from a person or an organization.
+0076 The test fixture contains repeated words and predictable separators.
+0077 Each record is generated for a controlled compression experiment.
+0078 The report compares a byte histogram with repeated byte sequences.
+0079 No document in this dataset comes from a person or an organization.
+0080 The test fixture contains repeated words and predictable separators.
+0081 Each record is generated for a controlled compression experiment.
+0082 The report compares a byte histogram with repeated byte sequences.
+0083 No document in this dataset comes from a person or an organization.
+0084 The test fixture contains repeated words and predictable separators.
+0085 Each record is generated for a controlled compression experiment.
+0086 The report compares a byte histogram with repeated byte sequences.
+0087 No document in this dataset comes from a person or an organization.
+0088 The test fixture contains repeated words and predictable separators.
+0089 Each record is generated for a controlled compression experiment.
+0090 The report compares a byte histogram with repeated byte sequences.
+0091 No document in this dataset comes from a person or an organization.
+0092 The test fixture contains repeated words and predictable separators.
+0093 Each record is generated for a controlled compression experiment.
+0094 The report compares a byte histogram with repeated byte sequences.
+0095 No document in this dataset comes from a person or an organization.
+0096 The test fixture contains repeated words and predictable separators.
+0097 Each record is generated for a controlled compression experiment.
+0098 The report compares a byte histogram with repeated byte sequences.
+0099 No document in this dataset comes from a person or an organization.
+0100 The test fixture contains repeated words and predictable separators.
+0101 Each record is generated for a controlled compression experiment.
+0102 The report compares a byte histogram with repeated byte sequences.
+0103 No document in this dataset comes from a person or an organization.
+0104 The test fixture contains repeated words and predictable separators.
+0105 Each record is generated for a controlled compression experiment.
+0106 The report compares a byte histogram with repeated byte sequences.
+0107 No document in this dataset comes from a person or an organization.
+0108 The test fixture contains repeated words and predictable separators.
+0109 Each record is generated for a controlled compression experiment.
+0110 The report compares a byte histogram with repeated byte sequences.
+0111 No document in this dataset comes from a person or an organization.
+0112 The test fixture contains repeated words and predictable separators.
+0113 Each record is generated for a controlled compression experiment.
+0114 The report compares a byte histogram with repeated byte sequences.
+0115 No document in this dataset comes from a person or an organization.
+0116 The test fixture contains repeated words and predictable separators.
+0117 Each record is generated for a controlled compression experiment.
+0118 The report compares a byte histogram with repeated byte sequences.
+0119 No document in this dataset comes from a person or an organization.
+0120 The test fixture contains repeated words and predictable separators.
+0121 Each record is generated for a controlled compression experiment.
+0122 The report compares a byte histogram with repeated byte sequences.
+0123 No document in this dataset comes from a person or an organization.
+0124 The test fixture contains repeated words and predictable separators.
+0125 Each record is generated for a controlled compression experiment.
+0126 The report compares a byte histogram with repeated byte sequences.
+0127 No document in this dataset comes from a person or an organization.
+0128 The test fixture contains repeated words and predictable separators.
+0129 Each record is generated for a controlled compression experiment.
+0130 The report compares a byte histogram with repeated byte sequences.
+0131 No document in this dataset comes from a person or an organization.
+0132 The test fixture contains repeated words and predictable separators.
+0133 Each record is generated for a controlled compression experiment.
+0134 The report compares a byte histogram with repeated byte sequences.
+0135 No document in this dataset comes from a person or an organization.
+0136 The test fixture contains repeated words and predictable separators.
+0137 Each record is generated for a controlled compression experiment.
+0138 The report compares a byte histogram with repeated byte sequences.
+0139 No document in this dataset comes from a person or an organization.
+0140 The test fixture contains repeated words and predictable separators.
+0141 Each record is generated for a controlled compression experiment.
+0142 The report compares a byte histogram with repeated byte sequences.
+0143 No document in this dataset comes from a person or an organization.
+0144 The test fixture contains repeated words and predictable separators.
+0145 Each record is generated for a controlled compression experiment.
+0146 The report compares a byte histogram with repeated byte sequences.
+0147 No document in this dataset comes from a person or an organization.
+0148 The test fixture contains repeated words and predictable separators.
+0149 Each record is generated for a controlled compression experiment.
+0150 The report compares a byte histogram with repeated byte sequences.
+0151 No document in this dataset comes from a person or an organization.
+0152 The test fixture contains repeated words and predictable separators.
+0153 Each record is generated for a controlled compression experiment.
+0154 The report compares a byte histogram with repeated byte sequences.
+0155 No document in this dataset comes from a person or an organization.
+0156 The test fixture contains repeated words and predictable separators.
+0157 Each record is generated for a controlled compression experiment.
+0158 The report compares a byte histogram with repeated byte sequences.
+0159 No document in this dataset comes from a person or an organization.
+0160 The test fixture contains repeated words and predictable separators.
+0161 Each record is generated for a controlled compression experiment.
+0162 The report compares a byte histogram with repeated byte sequences.
+0163 No document in this dataset comes from a person or an organization.
+0164 The test fixture contains repeated words and predictable separators.
+0165 Each record is generated for a controlled compression experiment.
+0166 The report compares a byte histogram with repeated byte sequences.
+0167 No document in this dataset comes from a person or an organization.
+0168 The test fixture contains repeated words and predictable separators.
+0169 Each record is generated for a controlled compression experiment.
+0170 The report compares a byte histogram with repeated byte sequences.
+0171 No document in this dataset comes from a person or an organization.
+0172 The test fixture contains repeated words and predictable separators.
+0173 Each record is generated for a controlled compression experiment.
+0174 The report compares a byte histogram with repeated byte sequences.
+0175 No document in this dataset comes from a person or an organization.
+0176 The test fixture contains repeated words and predictable separators.
+0177 Each record is generated for a controlled compression experiment.
+0178 The report compares a byte histogram with repeated byte sequences.
+0179 No document in this dataset comes from a person or an organization.
+0180 The test fixture contains repeated words and predictable separators.
+0181 Each record is generated for a controlled compression experiment.
+0182 The report compares a byte histogram with repeated byte sequences.
+0183 No document in this dataset comes from a person or an organization.
+0184 The test fixture contains repeated words and predictable separators.
+0185 Each record is generated for a controlled compression experiment.
+0186 The report compares a byte histogram with repeated byte sequences.
+0187 No document in this dataset comes from a person or an organization.
+0188 The test fixture contains repeated words and predictable separators.
+0189 Each record is generated for a controlled compression experiment.
+0190 The report compares a byte histogram with repeated byte sequences.
+0191 No document in this dataset comes from a person or an organization.
+0192 The test fixture contains repeated words and predictable separators.
+0193 Each record is generated for a controlled compression experiment.
+0194 The report compares a byte histogram with repeated byte sequences.
+0195 No document in this dataset comes from a person or an organization.
+0196 The test fixture contains repeated words and predictable separators.
+0197 Each record is generated for a controlled compression experiment.
+0198 The report compares a byte histogram with repeated byte sequences.
+0199 No document in this dataset comes from a person or an organization.
+0200 The test fixture contains repeated words and predictable separators.
+0201 Each record is generated for a controlled compression experiment.
+0202 The report compares a byte histogram with repeated byte sequences.
+0203 No document in this dataset comes from a person or an organization.
+0204 The test fixture contains repeated words and predictable separators.
+0205 Each record is generated for a controlled compression experiment.
+0206 The report compares a byte histogram with repeated byte sequences.
+0207 No document in this dataset comes from a person or an organization.
+0208 The test fixture contains repeated words and predictable separators.
+0209 Each record is generated for a controlled compression experiment.
+0210 The report compares a byte histogram with repeated byte sequences.
+0211 No document in this dataset comes from a person or an organization.
+0212 The test fixture contains repeated words and predictable separators.
+0213 Each record is generated for a controlled compression experiment.
+0214 The report compares a byte histogram with repeated byte sequences.
+0215 No document in this dataset comes from a person or an organization.
+0216 The test fixture contains repeated words and predictable separators.
+0217 Each record is generated for a controlled compression experiment.
+0218 The report compares a byte histogram with repeated byte sequences.
+0219 No document in this dataset comes from a person or an organization.
+0220 The test fixture contains repeated words and predictable separators.
+0221 Each record is generated for a controlled compression experiment.
+0222 The report compares a byte histogram with repeated byte sequences.
+0223 No document in this dataset comes from a person or an organization.
+0224 The test fixture contains repeated words and predictable separators.
+0225 Each record is generated for a controlled compression experiment.
+0226 The report compares a byte histogram with repeated byte sequences.
+0227 No document in this dataset comes from a person or an organization.
+0228 The test fixture contains repeated words and predictable separators.
+0229 Each record is generated for a controlled compression experiment.
+0230 The report compares a byte histogram with repeated byte sequences.
+0231 No document in this dataset comes from a person or an organization.
+0232 The test fixture contains repeated words and predictable separators.
+0233 Each record is generated for a controlled compression experiment.
+0234 The report compares a byte histogram with repeated byte sequences.
+0235 No document in this dataset comes from a person or an organization.
+0236 The test fixture contains repeated words and predictable separators.
+0237 Each record is generated for a controlled compression experiment.
+0238 The report compares a byte histogram with repeated byte sequences.
+0239 No document in this dataset comes from a person or an organization.
+0240 The test fixture contains repeated words and predictable separators.
+0241 Each record is generated for a controlled compression experiment.
+0242 The report compares a byte histogram with repeated byte sequences.
+0243 No document in this dataset comes from a person or an organization.
+0244 The test fixture contains repeated words and predictable separators.
+0245 Each record is generated for a controlled compression experiment.
+0246 The report compares a byte histogram with repeated byte sequences.
+0247 No document in this dataset comes from a person or an organization.
+0248 The test fixture contains repeated words and predictable separators.
+0249 Each record is generated for a controlled compression experiment.
+0250 The report compares a byte histogram with repeated byte sequences.
+0251 No document in this dataset comes from a person or an organization.
+0252 The test fixture contains repeated words and predictable separators.
+0253 Each record is generated for a controlled compression experiment.
+0254 The report compares a byte histogram with repeated byte sequences.
+0255 No document in this dataset comes from a person or an organization.
+0256 The test fixture contains repeated words and predictable separators.
+0257 Each record is generated for a controlled compression experiment.
+0258 The report compares a byte histogram with repeated byte sequences.
+0259 No document in this dataset comes from a person or an organization.
+0260 The test fixture contains repeated words and predictable separators.
+0261 Each record is generated for a controlled compression experiment.
+0262 The report compares a byte histogram with repeated byte sequences.
+0263 No document in this dataset comes from a person or an organization.
+0264 The test fixture contains repeated words and predictable separators.
+0265 Each record is generated for a controlled compression experiment.
+0266 The report compares a byte histogram with repeated byte sequences.
+0267 No document in this dataset comes from a person or an organization.
+0268 The test fixture contains repeated words and predictable separators.
+0269 Each record is generated for a controlled compression experiment.
+0270 The report compares a byte histogram with repeated byte sequences.
+0271 No document in this dataset comes from a person or an organization.
+0272 The test fixture contains repeated words and predictable separators.
+0273 Each record is generated for a controlled compression experiment.
+0274 The report compares a byte histogram with repeated byte sequences.
+0275 No document in this dataset comes from a person or an organization.
+0276 The test fixture contains repeated words and predictable separators.
+0277 Each record is generated for a controlled compression experiment.
+0278 The report compares a byte histogram with repeated byte sequences.
+0279 No document in this dataset comes from a person or an organization.
+0280 The test fixture contains repeated words and predictable separators.
+0281 Each record is generated for a controlled compression experiment.
+0282 The report compares a byte histogram with repeated byte sequences.
+0283 No document in this dataset comes from a person or an organization.
+0284 The test fixture contains repeated words and predictable separators.
+0285 Each record is generated for a controlled compression experiment.
+0286 The report compares a byte histogram with repeated byte sequences.
+0287 No document in this dataset comes from a person or an organization.
+0288 The test fixture contains repeated words and predictable separators.
+0289 Each record is generated for a controlled compression experiment.
+0290 The report compares a byte histogram with repeated byte sequences.
+0291 No document in this dataset comes from a person or an organization.
+0292 The test fixture contains repeated words and predictable separators.
+0293 Each record is generated for a controlled compression experiment.
+0294 The report compares a byte histogram with repeated byte sequences.
+0295 No document in this dataset comes from a person or an organization.
+0296 The test fixture contains repeated words and predictable separators.
+0297 Each record is generated for a controlled compression experiment.
+0298 The report compares a byte histogram with repeated byte sequences.
+0299 No document in this dataset comes from a person or an organization.
+0300 The test fixture contains repeated words and predictable separators.
+0301 Each record is generated for a controlled compression experiment.
+0302 The report compares a byte histogram with repeated byte sequences.
+0303 No document in this dataset comes from a person or an organization.
+0304 The test fixture contains repeated words and predictable separators.
+0305 Each record is generated for a controlled compression experiment.
+0306 The report compares a byte histogram with repeated byte sequences.
+0307 No document in this dataset comes from a person or an organization.
+0308 The test fixture contains repeated words and predictable separators.
+0309 Each record is generated for a controlled compression experiment.
+0310 The report compares a byte histogram with repeated byte sequences.
+0311 No document in this dataset comes from a person or an organization.
+0312 The test fixture contains repeated words and predictable separators.
+0313 Each record is generated for a controlled compression experiment.
+0314 The report compares a byte histogram with repeated byte sequences.
+0315 No document in this dataset comes from a person or an organization.
+0316 The test fixture contains repeated words and predictable separators.
+0317 Each record is generated for a controlled compression experiment.
+0318 The report compares a byte histogram with repeated byte sequences.
+0319 No document in this dataset comes from a person or an organization.
+0320 The test fixture contains repeated words and predictable separators.
+0321 Each record is generated for a controlled compression experiment.
+0322 The report compares a byte histogram with repeated byte sequences.
+0323 No document in this dataset comes from a person or an organization.
+0324 The test fixture contains repeated words and predictable separators.
+0325 Each record is generated for a controlled compression experiment.
+0326 The report compares a byte histogram with repeated byte sequences.
+0327 No document in this dataset comes from a person or an organization.
+0328 The test fixture contains repeated words and predictable separators.
+0329 Each record is generated for a controlled compression experiment.
+0330 The report compares a byte histogram with repeated byte sequences.
+0331 No document in this dataset comes from a person or an organization.
+0332 The test fixture contains repeated words and predictable separators.
+0333 Each record is generated for a controlled compression experiment.
+0334 The report compares a byte histogram with repeated byte sequences.
+0335 No document in this dataset comes from a person or an organization.
+0336 The test fixture contains repeated words and predictable separators.
+0337 Each record is generated for a controlled compression experiment.
+0338 The report compares a byte histogram with repeated byte sequences.
+0339 No document in this dataset comes from a person or an organization.
+0340 The test fixture contains repeated words and predictable separators.
+0341 Each record is generated for a controlled compression experiment.
+0342 The report compares a byte histogram with repeated byte sequences.
+0343 No document in this dataset comes from a person or an organization.
+0344 The test fixture contains repeated words and predictable separators.
+0345 Each record is generated for a controlled compression experiment.
+0346 The report compares a byte histogram with repeated byte sequences.
+0347 No document in this dataset comes from a person or an organization.
+0348 The test fixture contains repeated words and predictable separators.
+0349 Each record is generated for a controlled compression experiment.
+0350 The report compares a byte histogram with repeated byte sequences.
+0351 No document in this dataset comes from a person or an organization.
+0352 The test fixture contains repeated words and predictable separators.
+0353 Each record is generated for a controlled compression experiment.
+0354 The report compares a byte histogram with repeated byte sequences.
+0355 No document in this dataset comes from a person or an organization.
+0356 The test fixture contains repeated words and predictable separators.
+0357 Each record is generated for a controlled compression experiment.
+0358 The report compares a byte histogram with repeated byte sequences.
+0359 No document in this dataset comes from a person or an organization.
+0360 The test fixture contains repeated words and predictable separators.
+0361 Each record is generated for a controlled compression experiment.
+0362 The report compares a byte histogram with repeated byte sequences.
+0363 No document in this dataset comes from a person or an organization.
+0364 The test fixture contains repeated words and predictable separators.
+0365 Each record is generated for a controlled compression experiment.
+0366 The report compares a byte histogram with repeated byte sequences.
+0367 No document in this dataset comes from a person or an organization.
+0368 The test fixture contains repeated words and predictable separators.
+0369 Each record is generated for a controlled compression experiment.
+0370 The report compares a byte histogram with repeated byte sequences.
+0371 No document in this dataset comes from a person or an organization.
+0372 The test fixture contains repeated words and predictable separators.
+0373 Each record is generated for a controlled compression experiment.
+0374 The report compares a byte histogram with repeated byte sequences.
+0375 No document in this dataset comes from a person or an organization.
+0376 The test fixture contains repeated words and predictable separators.
+0377 Each record is generated for a controlled compression experiment.
+0378 The report compares a byte histogram with repeated byte sequences.
+0379 No document in this dataset comes from a person or an organization.
+0380 The test fixture contains repeated words and predictable separators.
+0381 Each record is generated for a controlled compression experiment.
+0382 The report compares a byte histogram with repeated byte sequences.
+0383 No document in this dataset comes from a person or an organization.
+0384 The test fixture contains repeated words and predictable separators.
+0385 Each record is generated for a controlled compression experiment.
+0386 The report compares a byte histogram with repeated byte sequences.
+0387 No document in this dataset comes from a person or an organization.
+0388 The test fixture contains repeated words and predictable separators.
+0389 Each record is generated for a controlled compression experiment.
+0390 The report compares a byte histogram with repeated byte sequences.
+0391 No document in this dataset comes from a person or an organization.
+0392 The test fixture contains repeated words and predictable separators.
+0393 Each record is generated for a controlled compression experiment.
+0394 The report compares a byte histogram with repeated byte sequences.
+0395 No document in this dataset comes from a person or an organization.
+0396 The test fixture contains repeated words and predictable separators.
+0397 Each record is generated for a controlled compression experiment.
+0398 The report compares a byte histogram with repeated byte sequences.
+0399 No document in this dataset comes from a person or an organization.
+0400 The test fixture contains repeated words and predictable separators.
+0401 Each record is generated for a controlled compression experiment.
+0402 The report compares a byte histogram with repeated byte sequences.
+0403 No document in this dataset comes from a person or an organization.
+0404 The test fixture contains repeated words and predictable separators.
+0405 Each record is generated for a controlled compression experiment.
+0406 The report compares a byte histogram with repeated byte sequences.
+0407 No document in this dataset comes from a person or an organization.
+0408 The test fixture contains repeated words and predictable separators.
+0409 Each record is generated for a controlled compression experiment.
+0410 The report compares a byte histogram with repeated byte sequences.
+0411 No document in this dataset comes from a person or an organization.
+0412 The test fixture contains repeated words and predictable separators.
+0413 Each record is generated for a controlled compression experiment.
+0414 The report compares a byte histogram with repeated byte sequences.
+0415 No document in this dataset comes from a person or an organization.
+0416 The test fixture contains repeated words and predictable separators.
+0417 Each record is generated for a controlled compression experiment.
+0418 The report compares a byte histogram with repeated byte sequences.
+0419 No document in this dataset comes from a person or an organization.
+0420 The test fixture contains repeated words and predictable separators.
+0421 Each record is generated for a controlled compression experiment.
+0422 The report compares a byte histogram with repeated byte sequences.
+0423 No document in this dataset comes from a person or an organization.
+0424 The test fixture contains repeated words and predictable separators.
+0425 Each record is generated for a controlled compression experiment.
+0426 The report compares a byte histogram with repeated byte sequences.
+0427 No document in this dataset comes from a person or an organization.
+0428 The test fixture contains repeated words and predictable separators.
+0429 Each record is generated for a controlled compression experiment.
+0430 The report compares a byte histogram with repeated byte sequences.
+0431 No document in this dataset comes from a person or an organization.
+0432 The test fixture contains repeated words and predictable separators.
+0433 Each record is generated for a controlled compression experiment.
+0434 The report compares a byte histogram with repeated byte sequences.
+0435 No document in this dataset comes from a person or an organization.
+0436 The test fixture contains repeated words and predictable separators.
+0437 Each record is generated for a controlled compression experiment.
+0438 The report compares a byte histogram with repeated byte sequences.
+0439 No document in this dataset comes from a person or an organization.
+0440 The test fixture contains repeated words and predictable separators.
+0441 Each record is generated for a controlled compression experiment.
+0442 The report compares a byte histogram with repeated byte sequences.
+0443 No document in this dataset comes from a person or an organization.
+0444 The test fixture contains repeated words and predictable separators.
+0445 Each record is generated for a controlled compression experiment.
+0446 The report compares a byte histogram with repeated byte sequences.
+0447 No document in this dataset comes from a person or an organization.
+0448 The test fixture contains repeated words and predictable separators.
+0449 Each record is generated for a controlled compression experiment.
+0450 The report compares a byte histogram with repeated byte sequences.
+0451 No document in this dataset comes from a person or an organization.
+0452 The test fixture contains repeated words and predictable separators.
+0453 Each record is generated for a controlled compression experiment.
+0454 The report compares a byte histogram with repeated byte sequences.
+0455 No document in this dataset comes from a person or an organization.
+0456 The test fixture contains repeated words and predictable separators.
+0457 Each record is generated for a controlled compression experiment.
+0458 The report compares a byte histogram with repeated byte sequences.
+0459 No document in this dataset comes from a person or an organization.
+0460 The test fixture contains repeated words and predictable separators.
+0461 Each record is generated for a controlled compression experiment.
+0462 The report compares a byte histogram with repeated byte sequences.
+0463 No document in this dataset comes from a person or an organization.
+0464 The test fixture contains repeated words and predictable separators.
+0465 Each record is generated for a controlled compression experiment.
+0466 The report compares a byte histogram with repeated byte sequences.
+0467 No document in this dataset comes from a person or an organization.
+0468 The test fixture contains repeated words and predictable separators.
+0469 Each record is generated for a controlled compression experiment.
+0470 The report compares a byte histogram with repeated byte sequences.
+0471 No document in this dataset comes from a person or an organization.
+0472 The test fixture contains repeated words and predictable separators.
+0473 Each record is generated for a controlled compression experiment.
+0474 The report compares a byte histogram with repeated byte sequences.
+0475 No document in this dataset comes from a person or an organization.
+0476 The test fixture contains repeated words and predictable separators.
+0477 Each record is generated for a controlled compression experiment.
+0478 The report compares a byte histogram with repeated byte sequences.
+0479 No document in this dataset comes from a person or an organization.
+0480 The test fixture contains repeated words and predictable separators.
+0481 Each record is generated for a controlled compression experiment.
+0482 The report compares a byte histogram with repeated byte sequences.
+0483 No document in this dataset comes from a person or an organization.
+0484 The test fixture contains repeated words and predictable separators.
+0485 Each record is generated for a controlled compression experiment.
+0486 The report compares a byte histogram with repeated byte sequences.
+0487 No document in this dataset comes from a person or an organization.
+0488 The test fixture contains repeated words and predictable separators.
+0489 Each record is generated for a controlled compression experiment.
+0490 The report compares a byte histogram with repeated byte sequences.
+0491 No document in this dataset comes from a person or an organization.
+0492 The test fixture contains repeated words and predictable separators.
+0493 Each record is generated for a controlled compression experiment.
+0494 The report compares a byte histogram with repeated byte sequences.
+0495 No document in this dataset comes from a person or an organization.
+0496 The test fixture contains repeated words and predictable separators.
+0497 Each record is generated for a controlled compression experiment.
+0498 The report compares a byte histogram with repeated byte sequences.
+0499 No document in this dataset comes from a person or an organization.
+0500 The test fixture contains repeated words and predictable separators.
+0501 Each record is generated for a controlled compression experiment.
+0502 The report compares a byte histogram with repeated byte sequences.
+0503 No document in this dataset comes from a person or an organization.
+0504 The test fixture contains repeated words and predictable separators.
+0505 Each record is generated for a controlled compression experiment.
+0506 The report compares a byte histogram with repeated byte sequences.
+0507 No document in this dataset comes from a person or an organization.
+0508 The test fixture contains repeated words and predictable separators.
+0509 Each record is generated for a controlled compression experiment.
+0510 The report compares a byte histogram with repeated byte sequences.
+0511 No document in this dataset comes from a person or an organization.
+0512 The test fixture contains repeated words and predictable separators.
+0513 Each record is generated for a controlled compression experiment.
+0514 The report compares a byte histogram with repeated byte sequences.
+0515 No document in this dataset comes from a person or an organization.
+0516 The test fixture contains repeated words and predictable separators.
+0517 Each record is generated for a controlled compression experiment.
+0518 The report compares a byte histogram with repeated byte sequences.
+0519 No document in this dataset comes from a person or an organization.
+0520 The test fixture contains repeated words and predictable separators.
+0521 Each record is generated for a controlled compression experiment.
+0522 The report compares a byte histogram with repeated byte sequences.
+0523 No document in this dataset comes from a person or an organization.
+0524 The test fixture contains repeated words and predictable separators.
+0525 Each record is generated for a controlled compression experiment.
+0526 The report compares a byte histogram with repeated byte sequences.
+0527 No document in this dataset comes from a person or an organization.
+0528 The test fixture contains repeated words and predictable separators.
+0529 Each record is generated for a controlled compression experiment.
+0530 The report compares a byte histogram with repeated byte sequences.
+0531 No document in this dataset comes from a person or an organization.
+0532 The test fixture contains repeated words and predictable separators.
+0533 Each record is generated for a controlled compression experiment.
+0534 The report compares a byte histogram with repeated byte sequences.
+0535 No document in this dataset comes from a person or an organization.
+0536 The test fixture contains repeated words and predictable separators.
+0537 Each record is generated for a controlled compression experiment.
+0538 The report compares a byte histogram with repeated byte sequences.
+0539 No document in this dataset comes from a person or an organization.
+0540 The test fixture contains repeated words and predictable separators.
+0541 Each record is generated for a controlled compression experiment.
+0542 The report compares a byte histogram with repeated byte sequences.
+0543 No document in this dataset comes from a person or an organization.
+0544 The test fixture contains repeated words and predictable separators.
+0545 Each record is generated for a controlled compression experiment.
+0546 The report compares a byte histogram with repeated byte sequences.
+0547 No document in this dataset comes from a person or an organization.
+0548 The test fixture contains repeated words and predictable separators.
+0549 Each record is generated for a controlled compression experiment.
+0550 The report compares a byte histogram with repeated byte sequences.
+0551 No document in this dataset comes from a person or an organization.
+0552 The test fixture contains repeated words and predictable separators.
+0553 Each record is generated for a controlled compression experiment.
+0554 The report compares a byte histogram with repeated byte sequences.
+0555 No document in this dataset comes from a person or an organization.
+0556 The test fixture contains repeated words and predictable separators.
+0557 Each record is generated for a controlled compression experiment.
+0558 The report compares a byte histogram with repeated byte sequences.
+0559 No document in this dataset comes from a person or an organization.
+0560 The test fixture contains repeated words and predictable separators.
+0561 Each record is generated for a controlled compression experiment.
+0562 The report compares a byte histogram with repeated byte sequences.
+0563 No document in this dataset comes from a person or an organization.
+0564 The test fixture contains repeated words and predictable separators.
+0565 Each record is generated for a controlled compression experiment.
+0566 The report compares a byte histogram with repeated byte sequences.
+0567 No document in this dataset comes from a person or an organization.
+0568 The test fixture contains repeated words and predictable separators.
+0569 Each record is generated for a controlled compression experiment.
+0570 The report compares a byte histogram with repeated byte sequences.
+0571 No document in this dataset comes from a person or an organization.
+0572 The test fixture contains repeated words and predictable separators.
+0573 Each record is generated for a controlled compression experiment.
+0574 The report compares a byte histogram with repeated byte sequences.
+0575 No document in this dataset comes from a person or an organization.
+0576 The test fixture contains repeated words and predictable separators.
+0577 Each record is generated for a controlled compression experiment.
+0578 The report compares a byte histogram with repeated byte sequences.
+0579 No document in this dataset comes from a person or an organization.
+0580 The test fixture contains repeated words and predictable separators.
+0581 Each record is generated for a controlled compression experiment.
+0582 The report compares a byte histogram with repeated byte sequences.
+0583 No document in this dataset comes from a person or an organization.
+0584 The test fixture contains repeated words and predictable separators.
+0585 Each record is generated for a controlled compression experiment.
+0586 The report compares a byte histogram with repeated byte sequences.
+0587 No document in this dataset comes from a person or an organization.
+0588 The test fixture contains repeated words and predictable separators.
+0589 Each record is generated for a controlled compression experiment.
+0590 The report compares a byte histogram with repeated byte sequences.
+0591 No document in this dataset comes from a person or an organization.
+0592 The test fixture contains repeated words and predictable separators.
+0593 Each record is generated for a controlled compression experiment.
+0594 The report compares a byte histogram with repeated byte sequences.
+0595 No document in this dataset comes from a person or an organization.
+0596 The test fixture contains repeated words and predictable separators.
+0597 Each record is generated for a controlled compression experiment.
+0598 The report compares a byte histogram with repeated byte sequences.
+0599 No document in this dataset comes from a person or an organization.
+0600 The test fixture contains repeated words and predictable separators.
+0601 Each record is generated for a controlled compression experiment.
+0602 The report compares a byte histogram with repeated byte sequences.
+0603 No document in this dataset comes from a person or an organization.
+0604 The test fixture contains repeated words and predictable separators.
+0605 Each record is generated for a controlled compression experiment.
+0606 The report compares a byte histogram with repeated byte sequences.
+0607 No document in this dataset comes from a person or an organization.
+0608 The test fixture contains repeated words and predictable separators.
+0609 Each record is generated for a controlled compression experiment.
+0610 The report compares a byte histogram with repeated byte sequences.
+0611 No document in this dataset comes from a person or an organization.
+0612 The test fixture contains repeated words and predictable separators.
+0613 Each record is generated for a controlled compression experiment.
+0614 The report compares a byte histogram with repeated byte sequences.
+0615 No document in this dataset comes from a person or an organization.
+0616 The test fixture contains repeated words and predictable separators.
+0617 Each record is generated for a controlled compression experiment.
+0618 The report compares a byte histogram with repeated byte sequences.
+0619 No document in this dataset comes from a person or an organization.
+0620 The test fixture contains repeated words and predictable separators.
+0621 Each record is generated for a controlled compression experiment.
+0622 The report compares a byte histogram with repeated byte sequences.
+0623 No document in this dataset comes from a person or an organization.
+0624 The test fixture contains repeated words and predictable separators.
+0625 Each record is generated for a controlled compression experiment.
+0626 The report compares a byte histogram with repeated byte sequences.
+0627 No document in this dataset comes from a person or an organization.
+0628 The test fixture contains repeated words and predictable separators.
+0629 Each record is generated for a controlled compression experiment.
+0630 The report compares a byte histogram with repeated byte sequences.
+0631 No document in this dataset comes from a person or an organization.
+0632 The test fixture contains repeated words and predictable separators.
+0633 Each record is generated for a controlled compression experiment.
+0634 The report compares a byte histogram with repeated byte sequences.
+0635 No document in this dataset comes from a person or an organization.
+0636 The test fixture contains repeated words and predictable separators.
+0637 Each record is generated for a controlled compression experiment.
+0638 The report compares a byte histogram with repeated byte sequences.
+0639 No document in this dataset comes from a person or an organization.
+0640 The test fixture contains repeated words and predictable separators.
+0641 Each record is generated for a controlled compression experiment.
+0642 The report compares a byte histogram with repeated byte sequences.
+0643 No document in this dataset comes from a person or an organization.
+0644 The test fixture contains repeated words and predictable separators.
+0645 Each record is generated for a controlled compression experiment.
+0646 The report compares a byte histogram with repeated byte sequences.
+0647 No document in this dataset comes from a person or an organization.
+0648 The test fixture contains repeated words and predictable separators.
+0649 Each record is generated for a controlled compression experiment.
+0650 The report compares a byte histogram with repeated byte sequences.
+0651 No document in this dataset comes from a person or an organization.
+0652 The test fixture contains repeated words and predictable separators.
+0653 Each record is generated for a controlled compression experiment.
+0654 The report compares a byte histogram with repeated byte sequences.
+0655 No document in this dataset comes from a person or an organization.
+0656 The test fixture contains repeated words and predictable separators.
+0657 Each record is generated for a controlled compression experiment.
+0658 The report compares a byte histogram with repeated byte sequences.
+0659 No document in this dataset comes from a person or an organization.
+0660 The test fixture contains repeated words and predictable separators.
+0661 Each record is generated for a controlled compression experiment.
+0662 The report compares a byte histogram with repeated byte sequences.
+0663 No document in this dataset comes from a person or an organization.
+0664 The test fixture contains repeated words and predictable separators.
+0665 Each record is generated for a controlled compression experiment.
+0666 The report compares a byte histogram with repeated byte sequences.
+0667 No document in this dataset comes from a person or an organization.
+0668 The test fixture contains repeated words and predictable separators.
+0669 Each record is generated for a controlled compression experiment.
+0670 The report compares a byte histogram with repeated byte sequences.
+0671 No document in this dataset comes from a person or an organization.
+0672 The test fixture contains repeated words and predictable separators.
+0673 Each record is generated for a controlled compression experiment.
+0674 The report compares a byte histogram with repeated byte sequences.
+0675 No document in this dataset comes from a person or an organization.
+0676 The test fixture contains repeated words and predictable separators.
+0677 Each record is generated for a controlled compression experiment.
+0678 The report compares a byte histogram with repeated byte sequences.
+0679 No document in this dataset comes from a person or an organization.
+0680 The test fixture contains repeated words and predictable separators.
+0681 Each record is generated for a controlled compression experiment.
+0682 The report compares a byte histogram with repeated byte sequences.
+0683 No document in this dataset comes from a person or an organization.
+0684 The test fixture contains repeated words and predictable separators.
+0685 Each record is generated for a controlled compression experiment.
+0686 The report compares a byte histogram with repeated byte sequences.
+0687 No document in this dataset comes from a person or an organization.
+0688 The test fixture contains repeated words and predictable separators.
+0689 Each record is generated for a controlled compression experiment.
+0690 The report compares a byte histogram with repeated byte sequences.
+0691 No document in this dataset comes from a person or an organization.
+0692 The test fixture contains repeated words and predictable separators.
+0693 Each record is generated for a controlled compression experiment.
+0694 The report compares a byte histogram with repeated byte sequences.
+0695 No document in this dataset comes from a person or an organization.
+0696 The test fixture contains repeated words and predictable separators.
+0697 Each record is generated for a controlled compression experiment.
+0698 The report compares a byte histogram with repeated byte sequences.
+0699 No document in this dataset comes from a person or an organization.
+0700 The test fixture contains repeated words and predictable separators.
+0701 Each record is generated for a controlled compression experiment.
+0702 The report compares a byte histogram with repeated byte sequences.
+0703 No document in this dataset comes from a person or an organization.
+0704 The test fixture contains repeated words and predictable separators.
+0705 Each record is generated for a controlled compression experiment.
+0706 The report compares a byte histogram with repeated byte sequences.
+0707 No document in this dataset comes from a person or an organization.
+0708 The test fixture contains repeated words and predictable separators.
+0709 Each record is generated for a controlled compression experiment.
+0710 The report compares a byte histogram with repeated byte sequences.
+0711 No document in this dataset comes from a person or an organization.
+0712 The test fixture contains repeated words and predictable separators.
+0713 Each record is generated for a controlled compression experiment.
+0714 The report compares a byte histogram with repeated byte sequences.
+0715 No document in this dataset comes from a person or an organization.
+0716 The test fixture contains repeated words and predictable separators.
+0717 Each record is generated for a controlled compression experiment.
+0718 The report compares a byte histogram with repeated byte sequences.
+0719 No document in this dataset comes from a person or an organization.
+0720 The test fixture contains repeated words and predictable separators.
+0721 Each record is generated for a controlled compression experiment.
+0722 The report compares a byte histogram with repeated byte sequences.
+0723 No document in this dataset comes from a person or an organization.
+0724 The test fixture contains repeated words and predictable separators.
+0725 Each record is generated for a controlled compression experiment.
+0726 The report compares a byte histogram with repeated byte sequences.
+0727 No document in this dataset comes from a person or an organization.
+0728 The test fixture contains repeated words and predictable separators.
+0729 Each record is generated for a controlled compression experiment.
+0730 The report compares a byte histogram with repeated byte sequences.
+0731 No document in this dataset comes from a person or an organization.
+0732 The test fixture contains repeated words and predictable separators.
+0733 Each record is generated for a controlled compression experiment.
+0734 The report compares a byte histogram with repeated byte sequences.
+0735 No document in this dataset comes from a person or an organization.
+0736 The test fixture contains repeated words and predictable separators.
+0737 Each record is generated for a controlled compression experiment.
+0738 The report compares a byte histogram with repeated byte sequences.
+0739 No document in this dataset comes from a person or an organization.
+0740 The test fixture contains repeated words and predictable separators.
+0741 Each record is generated for a controlled compression experiment.
+0742 The report compares a byte histogram with repeated byte sequences.
+0743 No document in this dataset comes from a person or an organization.
+0744 The test fixture contains repeated words and predictable separators.
+0745 Each record is generated for a controlled compression experiment.
+0746 The report compares a byte histogram with repeated byte sequences.
+0747 No document in this dataset comes from a person or an organization.
+0748 The test fixture contains repeated words and predictable separators.
+0749 Each record is generated for a controlled compression experiment.
+0750 The report compares a byte histogram with repeated byte sequences.
+0751 No document in this dataset comes from a person or an organization.
+0752 The test fixture contains repeated words and predictable separators.
+0753 Each record is generated for a controlled compression experiment.
+0754 The report compares a byte histogram with repeated byte sequences.
+0755 No document in this dataset comes from a person or an organization.
+0756 The test fixture contains repeated words and predictable separators.
+0757 Each record is generated for a controlled compression experiment.
+0758 The report compares a byte histogram with repeated byte sequences.
+0759 No document in this dataset comes from a person or an organization.
+0760 The test fixture contains repeated words and predictable separators.
+0761 Each record is generated for a controlled compression experiment.
+0762 The report compares a byte histogram with repeated byte sequences.
+0763 No document in this dataset comes from a person or an organization.
+0764 The test fixture contains repeated words and predictable separators.
+0765 Each record is generated for a controlled compression experiment.
+0766 The report compares a byte histogram with repeated byte sequences.
+0767 No document in this dataset comes from a person or an organization.
+0768 The test fixture contains repeated words and predictable separators.
+0769 Each record is generated for a controlled compression experiment.
+0770 The report compares a byte histogram with repeated byte sequences.
+0771 No document in this dataset comes from a person or an organization.
+0772 The test fixture contains repeated words and predictable separators.
+0773 Each record is generated for a controlled compression experiment.
+0774 The report compares a byte histogram with repeated byte sequences.
+0775 No document in this dataset comes from a person or an organization.
+0776 The test fixture contains repeated words and predictable separators.
+0777 Each record is generated for a controlled compression experiment.
+0778 The report compares a byte histogram with repeated byte sequences.
+0779 No document in this dataset comes from a person or an organization.
+0780 The test fixture contains repeated words and predictable separators.
+0781 Each record is generated for a controlled compression experiment.
+0782 The report compares a byte histogram with repeated byte sequences.
+0783 No document in this dataset comes from a person or an organization.
+0784 The test fixture contains repeated words and predictable separators.
+0785 Each record is generated for a controlled compression experiment.
+0786 The report compares a byte histogram with repeated byte sequences.
+0787 No document in this dataset comes from a person or an organization.
+0788 The test fixture contains repeated words and predictable separators.
+0789 Each record is generated for a controlled compression experiment.
+0790 The report compares a byte histogram with repeated byte sequences.
+0791 No document in this dataset comes from a person or an organization.
+0792 The test fixture contains repeated words and predictable separators.
+0793 Each record is generated for a controlled compression experiment.
+0794 The report compares a byte histogram with repeated byte sequences.
+0795 No document in this dataset comes from a person or an organization.
+0796 The test fixture contains repeated words and predictable separators.
+0797 Each record is generated for a controlled compression experiment.
+0798 The report compares a byte histogram with repeated byte sequences.
+0799 No document in this dataset comes from a person or an organization.
+0800 The test fixture contains repeated words and predictable separators.
+0801 Each record is generated for a controlled compression experiment.
+0802 The report compares a byte histogram with repeated byte sequences.
+0803 No document in this dataset comes from a person or an organization.
+0804 The test fixture contains repeated words and predictable separators.
+0805 Each record is generated for a controlled compression experiment.
+0806 The report compares a byte histogram with repeated byte sequences.
+0807 No document in this dataset comes from a person or an organization.
+0808 The test fixture contains repeated words and predictable separators.
+0809 Each record is generated for a controlled compression experiment.
+0810 The report compares a byte histogram with repeated byte sequences.
+0811 No document in this dataset comes from a person or an organization.
+0812 The test fixture contains repeated words and predictable separators.
+0813 Each record is generated for a controlled compression experiment.
+0814 The report compares a byte histogram with repeated byte sequences.
+0815 No document in this dataset comes from a person or an organization.
+0816 The test fixture contains repeated words and predictable separators.
+0817 Each record is generated for a controlled compression experiment.
+0818 The report compares a byte histogram with repeated byte sequences.
+0819 No document in this dataset comes from a person or an organization.
+0820 The test fixture contains repeated words and predictable separators.
+0821 Each record is generated for a controlled compression experiment.
+0822 The report compares a byte histogram with repeated byte sequences.
+0823 No document in this dataset comes from a person or an organization.
+0824 The test fixture contains repeated words and predictable separators.
+0825 Each record is generated for a controlled compression experiment.
+0826 The report compares a byte histogram with repeated byte sequences.
+0827 No document in this dataset comes from a person or an organization.
+0828 The test fixture contains repeated words and predictable separators.
+0829 Each record is generated for a controlled compression experiment.
+0830 The report compares a byte histogram with repeated byte sequences.
+0831 No document in this dataset comes from a person or an organization.
+0832 The test fixture contains repeated words and predictable separators.
+0833 Each record is generated for a controlled compression experiment.
+0834 The report compares a byte histogram with repeated byte sequences.
+0835 No document in this dataset comes from a person or an organization.
+0836 The test fixture contains repeated words and predictable separators.
+0837 Each record is generated for a controlled compression experiment.
+0838 The report compares a byte histogram with repeated byte sequences.
+0839 No document in this dataset comes from a person or an organization.
+0840 The test fixture contains repeated words and predictable separators.
+0841 Each record is generated for a controlled compression experiment.
+0842 The report compares a byte histogram with repeated byte sequences.
+0843 No document in this dataset comes from a person or an organization.
+0844 The test fixture contains repeated words and predictable separators.
+0845 Each record is generated for a controlled compression experiment.
+0846 The report compares a byte histogram with repeated byte sequences.
+0847 No document in this dataset comes from a person or an organization.
+0848 The test fixture contains repeated words and predictable separators.
+0849 Each record is generated for a controlled compression experiment.
+0850 The report compares a byte histogram with repeated byte sequences.
+0851 No document in this dataset comes from a person or an organization.
+0852 The test fixture contains repeated words and predictable separators.
+0853 Each record is generated for a controlled compression experiment.
+0854 The report compares a byte histogram with repeated byte sequences.
+0855 No document in this dataset comes from a person or an organization.
+0856 The test fixture contains repeated words and predictable separators.
+0857 Each record is generated for a controlled compression experiment.
+0858 The report compares a byte histogram with repeated byte sequences.
+0859 No document in this dataset comes from a person or an organization.
+0860 The test fixture contains repeated words and predictable separators.
+0861 Each record is generated for a controlled compression experiment.
+0862 The report compares a byte histogram with repeated byte sequences.
+0863 No document in this dataset comes from a person or an organization.
+0864 The test fixture contains repeated words and predictable separators.
+0865 Each record is generated for a controlled compression experiment.
+0866 The report compares a byte histogram with repeated byte sequences.
+0867 No document in this dataset comes from a person or an organization.
+0868 The test fixture contains repeated words and predictable separators.
+0869 Each record is generated for a controlled compression experiment.
+0870 The report compares a byte histogram with repeated byte sequences.
+0871 No document in this dataset comes from a person or an organization.
+0872 The test fixture contains repeated words and predictable separators.
+0873 Each record is generated for a controlled compression experiment.
+0874 The report compares a byte histogram with repeated byte sequences.
+0875 No document in this dataset comes from a person or an organization.
+0876 The test fixture contains repeated words and predictable separators.
+0877 Each record is generated for a controlled compression experiment.
+0878 The report compares a byte histogram with repeated byte sequences.
+0879 No document in this dataset comes from a person or an organization.
+0880 The test fixture contains repeated words and predictable separators.
+0881 Each record is generated for a controlled compression experiment.
+0882 The report compares a byte histogram with repeated byte sequences.
+0883 No document in this dataset comes from a person or an organization.
+0884 The test fixture contains repeated words and predictable separators.
+0885 Each record is generated for a controlled compression experiment.
+0886 The report compares a byte histogram with repeated byte sequences.
+0887 No document in this dataset comes from a person or an organization.
+0888 The test fixture contains repeated words and predictable separators.
+0889 Each record is generated for a controlled compression experiment.
+0890 The report compares a byte histogram with repeated byte sequences.
+0891 No document in this dataset comes from a person or an organization.
+0892 The test fixture contains repeated words and predictable separators.
+0893 Each record is generated for a controlled compression experiment.
+0894 The report compares a byte histogram with repeated byte sequences.
+0895 No document in this dataset comes from a person or an organization.
+0896 The test fixture contains repeated words and predictable separators.
+0897 Each record is generated for a controlled compression experiment.
+0898 The report compares a byte histogram with repeated byte sequences.
+0899 No document in this dataset comes from a person or an organization.
+0900 The test fixture contains repeated words and predictable separators.
+0901 Each record is generated for a controlled compression experiment.
+0902 The report compares a byte histogram with repeated byte sequences.
+0903 No document in this dataset comes from a person or an organization.
+0904 The test fixture contains repeated words and predictable separators.
+0905 Each record is generated for a controlled compression experiment.
+0906 The report compares a byte histogram with repeated byte sequences.
+0907 No document in this dataset comes from a person or an organization.
+0908 The test fixture contains repeated words and predictable separators.
+0909 Each record is generated for a controlled compression experiment.
+0910 The report compares a byte histogram with repeated byte sequences.
+0911 No document in this dataset comes from a person or an organization.
+0912 The test fixture contains repeated words and predictable separators.
+0913 Each record is generated for a controlled compression experiment.
+0914 The report compares a byte histogram with repeated byte sequences.
+0915 No document in this dataset comes from a person or an organization.
+0916 The test fixture contains repeated words and predictable separators.
+0917 Each record is generated for a controlled compression experiment.
+0918 The report compares a byte histogram with repeated byte sequences.
+0919 No document in this dataset comes from a person or an organization.
+0920 The test fixture contains repeated words and predictable separators.
+0921 Each record is generated for a controlled compression experiment.
+0922 The report compares a byte histogram with repeated byte sequences.
+0923 No document in this dataset comes from a person or an organization.
+0924 The test fixture contains repeated words and predictable separators.
+0925 Each record is generated for a controlled compression experiment.
+0926 The report compares a byte histogram with repeated byte sequences.
+0927 No document in this dataset comes from a person or an organization.
+0928 The test fixture contains repeated words and predictable separators.
+0929 Each record is generated for a controlled compression experiment.
+0930 The report compares a byte histogram with repeated byte sequences.
+0931 No document in this dataset comes from a person or an organization.
+0932 The test fixture contains repeated words and predictable separators.
+0933 Each record is generated for a controlled compression experiment.
+0934 The report compares a byte histogram with repeated byte sequences.
+0935 No document in this dataset comes from a person or an organization.
+0936 The test fixture contains repeated words and predictable separators.
+0937 Each record is generated for a controlled compression experiment.
+0938 The report compares a byte histogram with repeated byte sequences.
+0939 No document in this dataset comes from a person or an organization.
+0940 The test fixture contains repeated words and predictable separators.
+0941 Each record is generated for a controlled compression experiment.
+0942 The report compares a byte histogram with repeated byte sequences.
+0943 No document in this dataset comes from a person or an organization.
+0944 The test fixture contains repeated words and predictable separators.
+0945 Each record is generated for a controlled compression experiment.
+0946 The report compares a byte histogram with repeated byte sequences.
+0947 No document in this dataset comes from a person or an organization.
+0948 The test fixture contains repeated words and predictable separators.
+0949 Each record is generated for a controlled compression experiment.
+0950 The report compares a byte histogram with repeated byte sequences.
+0951 No document in this dataset comes from a person or an organization.
+0952 The test fixture contains repeated words and predictable separators.
+0953 Each record is generated for a controlled compression experiment.
+0954 The report compares a byte histogram with repeated byte sequences.
+0955 No document in this dataset comes from a person or an organization.
+0956 The test fixture contains repeated words and predictable separators.
+0957 Each record is generated for a controlled compression experiment.
+0958 The report compares a byte histogram with repeated byte sequences.
+0959 No document in this dataset comes from a person or an organization.
+0960 The test fixture contains repeated words and predictable separators.
+0961 Each record is generated for a controlled compression experiment.
+0962 The report compares a byte histogram with repeated byte sequences.
+0963 No document in this dataset comes from a person or an organization.
+0964 The test fixture contains repeated words and predictable separators.
+0965 Each record is generated for a controlled compression experiment.
+0966 The report compares a byte histogram with repeated byte sequences.
+0967 No document in this dataset comes from a person or an organization.
+0968 The test fixture contains repeated words and predictable separators.
+0969 Each record is generated for a controlled compression experiment.
+0970 The report compares a byte histogram with repeated byte sequences.
+0971 No document in this dataset comes from a person or an organization.
+0972 The test fixture contains repeated words and predictable separators.
+0973 Each record is generated for a controlled compression experiment.
+0974 The report compares a byte histogram with repeated byte sequences.
+0975 No document in this dataset comes from a person or an organization.
+0976 The test fixture contains repeated words and predictable separators.
+0977 Each record is generated for a controlled compression experiment.
+0978 The report compares a byte histogram with repeated byte sequences.
+0979 No document in this dataset comes from a person or an organization.
+0980 The test fixture contains repeated words and predictable separators.
+0981 Each record is generated for a controlled compression experiment.
+0982 The report compares a byte histogram with repeated byte sequences.
+0983 No document in this dataset comes from a person or an organization.
+0984 The test fixture contains repeated words and predictable separators.
+0985 Each record is generated for a controlled compression experiment.
+0986 The report compares a byte histogram with repeated byte sequences.
+0987 No document in this dataset comes from a person or an organization.
+0988 The test fixture contains repeated words and predictable separators.
+0989 Each record is generated for a controlled compression experiment.
+0990 The report compares a byte histogram with repeated byte sequences.
+0991 No document in this dataset comes from a person or an organization.
+0992 The test fixture contains repeated words and predictable separators.
+0993 Each record is generated for a controlled compression experiment.
+0994 The report compares a byte histogram with repeated byte sequences.
+0995 No document in this dataset comes from a person or an organization.
+0996 The test fixture contains repeated words and predictable separators.
+0997 Each record is generated for a controlled compression experiment.
+0998 The report compares a byte histogram with repeated byte sequences.
+0999 No document in this dataset comes from a person or an organization.
+1000 The test fixture contains repeated words and predictable separators.
+1001 Each record is generated for a controlled compression experiment.
+1002 The report compares a byte histogram with repeated byte sequences.
+1003 No document in this dataset comes from a person or an organization.
+1004 The test fixture contains repeated words and predictable separators.
+1005 Each record is generated for a controlled compression experiment.
+1006 The report compares a byte histogram with repeated byte sequences.
+1007 No document in this dataset comes from a person or an organization.
+1008 The test fixture contains repeated words and predictable separators.
+1009 Each record is generated for a controlled compression experiment.
+1010 The report compares a byte histogram with repeated byte sequences.
+1011 No document in this dataset comes from a person or an organization.
+1012 The test fixture contains repeated words and predictable separators.
+1013 Each record is generated for a controlled compression experiment.
+1014 The report compares a byte histogram with repeated byte sequences.
+1015 No document in this dataset comes from a person or an organization.
+1016 The test fixture contains repeated words and predictable separators.
+1017 Each record is generated for a controlled compression experiment.
+1018 The report compares a byte histogram with repeated byte sequences.
+1019 No document in this dataset comes from a person or an organization.
+1020 The test fixture contains repeated words and predictable separators.
+1021 Each record is generated for a controlled compression experiment.
+1022 The report compares a byte histogram with repeated byte sequences.
+1023 No document in this dataset comes from a person or an organization.
+1024 The test fixture contains repeated words and predictable separators.
+1025 Each record is generated for a controlled compression experiment.
+1026 The report compares a byte histogram with repeated byte sequences.
+1027 No document in this dataset comes from a person or an organization.
+1028 The test fixture contains repeated words and predictable separators.
+1029 Each record is generated for a controlled compression experiment.
+1030 The report compares a byte histogram with repeated byte sequences.
+1031 No document in this dataset comes from a person or an organization.
+1032 The test fixture contains repeated words and predictable separators.
+1033 Each record is generated for a controlled compression experiment.
+1034 The report compares a byte histogram with repeated byte sequences.
+1035 No document in this dataset comes from a person or an organization.
+1036 The test fixture contains repeated words and predictable separators.
+1037 Each record is generated for a controlled compression experiment.
+1038 The report compares a byte histogram with repeated byte sequences.
+1039 No document in this dataset comes from a person or an organization.
+1040 The test fixture contains repeated words and predictable separators.
+1041 Each record is generated for a controlled compression experiment.
+1042 The report compares a byte histogram with repeated byte sequences.
+1043 No document in this dataset comes from a person or an organization.
+1044 The test fixture contains repeated words and predictable separators.
+1045 Each record is generated for a controlled compression experiment.
+1046 The report compares a byte histogram with repeated byte sequences.
+1047 No document in this dataset comes from a person or an organization.
+1048 The test fixture contains repeated words and predictable separators.
+1049 Each record is generated for a controlled compression experiment.
+1050 The report compares a byte histogram with repeated byte sequences.
+1051 No document in this dataset comes from a person or an organization.
+1052 The test fixture contains repeated words and predictable separators.
+1053 Each record is generated for a controlled compression experiment.
+1054 The report compares a byte histogram with repeated byte sequences.
+1055 No document in this dataset comes from a person or an organization.
+1056 The test fixture contains repeated words and predictable separators.
+1057 Each record is generated for a controlled compression experiment.
+1058 The report compares a byte histogram with repeated byte sequences.
+1059 No document in this dataset comes from a person or an organization.
+1060 The test fixture contains repeated words and predictable separators.
+1061 Each record is generated for a controlled compression experiment.
+1062 The report compares a byte histogram with repeated byte sequences.
+1063 No document in this dataset comes from a person or an organization.
+1064 The test fixture contains repeated words and predictable separators.
+1065 Each record is generated for a controlled compression experiment.
+1066 The report compares a byte histogram with repeated byte sequences.
+1067 No document in this dataset comes from a person or an organization.
+1068 The test fixture contains repeated words and predictable separators.
+1069 Each record is generated for a controlled compression experiment.
+1070 The report compares a byte histogram with repeated byte sequences.
+1071 No document in this dataset comes from a person or an organization.
+1072 The test fixture contains repeated words and predictable separators.
+1073 Each record is generated for a controlled compression experiment.
+1074 The report compares a byte histogram with repeated byte sequences.
+1075 No document in this dataset comes from a person or an organization.
+1076 The test fixture contains repeated words and predictable separators.
+1077 Each record is generated for a controlled compression experiment.
+1078 The report compares a byte histogram with repeated byte sequences.
+1079 No document in this dataset comes from a person or an organization.
+1080 The test fixture contains repeated words and predictable separators.
+1081 Each record is generated for a controlled compression experiment.
+1082 The report compares a byte histogram with repeated byte sequences.
+1083 No document in this dataset comes from a person or an organization.
+1084 The test fixture contains repeated words and predictable separators.
+1085 Each record is generated for a controlled compression experiment.
+1086 The report compares a byte histogram with repeated byte sequences.
+1087 No document in this dataset comes from a person or an organization.
+1088 The test fixture contains repeated words and predictable separators.
+1089 Each record is generated for a controlled compression experiment.
+1090 The report compares a byte histogram with repeated byte sequences.
+1091 No document in this dataset comes from a person or an organization.
+1092 The test fixture contains repeated words and predictable separators.
+1093 Each record is generated for a controlled compression experiment.
+1094 The report compares a byte histogram with repeated byte sequences.
+1095 No document in this dataset comes from a person or an organization.
+1096 The test fixture contains repeated words and predictable separators.
+1097 Each record is generated for a controlled compression experiment.
+1098 The report compares a byte histogram with repeated byte sequences.
+1099 No document in this dataset comes from a person or an organization.
+1100 The test fixture contains repeated words and predictable separators.
+1101 Each record is generated for a controlled compression experiment.
+1102 The report compares a byte histogram with repeated byte sequences.
+1103 No document in this dataset comes from a person or an organization.
+1104 The test fixture contains repeated words and predictable separators.
+1105 Each record is generated for a controlled compression experiment.
+1106 The report compares a byte histogram with repeated byte sequences.
+1107 No document in this dataset comes from a person or an organization.
+1108 The test fixture contains repeated words and predictable separators.
+1109 Each record is generated for a controlled compression experiment.
+1110 The report compares a byte histogram with repeated byte sequences.
+1111 No document in this dataset comes from a person or an organization.
+1112 The test fixture contains repeated words and predictable separators.
+1113 Each record is generated for a controlled compression experiment.
+1114 The report compares a byte histogram with repeated byte sequences.
+1115 No document in this dataset comes from a person or an organization.
+1116 The test fixture contains repeated words and predictable separators.
+1117 Each record is generated for a controlled compression experiment.
+1118 The report compares a byte histogram with repeated byte sequences.
+1119 No document in this dataset comes from a person or an organization.
+1120 The test fixture contains repeated words and predictable separators.
+1121 Each record is generated for a controlled compression experiment.
+1122 The report compares a byte histogram with repeated byte sequences.
+1123 No document in this dataset comes from a person or an organization.
+1124 The test fixture contains repeated words and predictable separators.
+1125 Each record is generated for a controlled compression experiment.
+1126 The report compares a byte histogram with repeated byte sequences.
+1127 No document in this dataset comes from a person or an organization.
+1128 The test fixture contains repeated words and predictable separators.
+1129 Each record is generated for a controlled compression experiment.
+1130 The report compares a byte histogram with repeated byte sequences.
+1131 No document in this dataset comes from a person or an organization.
+1132 The test fixture contains repeated words and predictable separators.
+1133 Each record is generated for a controlled compression experiment.
+1134 The report compares a byte histogram with repeated byte sequences.
+1135 No document in this dataset comes from a person or an organization.
+1136 The test fixture contains repeated words and predictable separators.
+1137 Each record is generated for a controlled compression experiment.
+1138 The report compares a byte histogram with repeated byte sequences.
+1139 No document in this dataset comes from a person or an organization.
+1140 The test fixture contains repeated words and predictable separators.
+1141 Each record is generated for a controlled compression experiment.
+1142 The report compares a byte histogram with repeated byte sequences.
+1143 No document in this dataset comes from a person or an organization.
+1144 The test fixture contains repeated words and predictable separators.
+1145 Each record is generated for a controlled compression experiment.
+1146 The report compares a byte histogram with repeated byte sequences.
+1147 No document in this dataset comes from a person or an organization.
+1148 The test fixture contains repeated words and predictable separators.
+1149 Each record is generated for a controlled compression experiment.
+1150 The report compares a byte histogram with repeated byte sequences.
+1151 No document in this dataset comes from a person or an organization.
+1152 The test fixture contains repeated words and predictable separators.
+1153 Each record is generated for a controlled compression experiment.
+1154 The report compares a byte histogram with repeated byte sequences.
+1155 No document in this dataset comes from a person or an organization.
+1156 The test fixture contains repeated words and predictable separators.
+1157 Each record is generated for a controlled compression experiment.
+1158 The report compares a byte histogram with repeated byte sequences.
+1159 No document in this dataset comes from a person or an organization.
+1160 The test fixture contains repeated words and predictable separators.
+1161 Each record is generated for a controlled compression experiment.
+1162 The report compares a byte histogram with repeated byte sequences.
+1163 No document in this dataset comes from a person or an organization.
+1164 The test fixture contains repeated words and predictable separators.
+1165 Each record is generated for a controlled compression experiment.
+1166 The report compares a byte histogram with repeated byte sequences.
+1167 No document in this dataset comes from a person or an organization.
+1168 The test fixture contains repeated words and predictable separators.
+1169 Each record is generated for a controlled compression experiment.
+1170 The report compares a byte histogram with repeated byte sequences.
+1171 No document in this dataset comes from a person or an organization.
+1172 The test fixture contains repeated words and predictable separators.
+1173 Each record is generated for a controlled compression experiment.
+1174 The report compares a byte histogram with repeated byte sequences.
+1175 No document in this dataset comes from a person or an organization.
+1176 The test fixture contains repeated words and predictable separators.
+1177 Each record is generated for a controlled compression experiment.
+1178 The report compares a byte histogram with repeated byte sequences.
+1179 No document in this dataset comes from a person or an organization.
+1180 The test fixture contains repeated words and predictable separators.
+1181 Each record is generated for a controlled compression experiment.
+1182 The report compares a byte histogram with repeated byte sequences.
+1183 No document in this dataset comes from a person or an organization.
+1184 The test fixture contains repeated words and predictable separators.
+1185 Each record is generated for a controlled compression experiment.
+1186 The report compares a byte histogram with repeated byte sequences.
+1187 No document in this dataset comes from a person or an organization.
+1188 The test fixture contains repeated words and predictable separators.
+1189 Each record is generated for a controlled compression experiment.
+1190 The report compares a byte histogram with repeated byte sequences.
+1191 No document in this dataset comes from a person or an organization.
+1192 The test fixture contains repeated words and predictable separators.
+1193 Each record is generated for a controlled compression experiment.
+1194 The report compares a byte histogram with repeated byte sequences.
+1195 No document in this dataset comes from a person or an organization.
+1196 The test fixture contains repeated words and predictable separators.
+1197 Each record is generated for a controlled compression experiment.
+1198 The report compares a byte histogram with repeated byte sequences.
+1199 No document in this dataset comes from a person or an organization.
+1200 The test fixture contains repeated words and predictable separators.
+1201 Each record is generated for a controlled compression experiment.
+1202 The report compares a byte histogram with repeated byte sequences.
+1203 No document in this dataset comes from a person or an organization.
+1204 The test fixture contains repeated words and predictable separators.
+1205 Each record is generated for a controlled compression experiment.
+1206 The report compares a byte histogram with repeated byte sequences.
+1207 No document in this dataset comes from a person or an organization.
+1208 The test fixture contains repeated words and predictable separators.
+1209 Each record is generated for a controlled compression experiment.
+1210 The report compares a byte histogram with repeated byte sequences.
+1211 No document in this dataset comes from a person or an organization.
+1212 The test fixture contains repeated words and predictable separators.
+1213 Each record is generated for a controlled compression experiment.
+1214 The report compares a byte histogram with repeated byte sequences.
+1215 No document in this dataset comes from a person or an organization.
+1216 The test fixture contains repeated words and predictable separators.
+1217 Each record is generated for a controlled compression experiment.
+1218 The report compares a byte histogram with repeated byte sequences.
+1219 No document in this dataset comes from a person or an organization.
+1220 The test fixture contains repeated words and predictable separators.
+1221 Each record is generated for a controlled compression experiment.
+1222 The report compares a byte histogram with repeated byte sequences.
+1223 No document in this dataset comes from a person or an organization.
+1224 The test fixture contains repeated words and predictable separators.
+1225 Each record is generated for a controlled compression experiment.
+1226 The report compares a byte histogram with repeated byte sequences.
+1227 No document in this dataset comes from a person or an organization.
+1228 The test fixture contains repeated words and predictable separators.
+1229 Each record is generated for a controlled compression experiment.
+1230 The report compares a byte histogram with repeated byte sequences.
+1231 No document in this dataset comes from a person or an organization.
+1232 The test fixture contains repeated words and predictable separators.
+1233 Each record is generated for a controlled compression experiment.
+1234 The report compares a byte histogram with repeated byte sequences.
+1235 No document in this dataset comes from a person or an organization.
+1236 The test fixture contains repeated words and predictable separators.
+1237 Each record is generated for a controlled compression experiment.
+1238 The report compares a byte histogram with repeated byte sequences.
+1239 No document in this dataset comes from a person or an organization.
+1240 The test fixture contains repeated words and predictable separators.
+1241 Each record is generated for a controlled compression experiment.
+1242 The report compares a byte histogram with repeated byte sequences.
+1243 No document in this dataset comes from a person or an organization.
+1244 The test fixture contains repeated words and predictable separators.
+1245 Each record is generated for a controlled compression experiment.
+1246 The report compares a byte histogram with repeated byte sequences.
+1247 No document in this dataset comes from a person or an organization.
+1248 The test fixture contains repeated words and predictable separators.
+1249 Each record is generated for a controlled compression experiment.
+1250 The report compares a byte histogram with repeated byte sequences.
+1251 No document in this dataset comes from a person or an organization.
+1252 The test fixture contains repeated words and predictable separators.
+1253 Each record is generated for a controlled compression experiment.
+1254 The report compares a byte histogram with repeated byte sequences.
+1255 No document in this dataset comes from a person or an organization.
+1256 The test fixture contains repeated words and predictable separators.
+1257 Each record is generated for a controlled compression experiment.
+1258 The report compares a byte histogram with repeated byte sequences.
+1259 No document in this dataset comes from a person or an organization.
+1260 The test fixture contains repeated words and predictable separators.
+1261 Each record is generated for a controlled compression experiment.
+1262 The report compares a byte histogram with repeated byte sequences.
+1263 No document in this dataset comes from a person or an organization.
+1264 The test fixture contains repeated words and predictable separators.
+1265 Each record is generated for a controlled compression experiment.
+1266 The report compares a byte histogram with repeated byte sequences.
+1267 No document in this dataset comes from a person or an organization.
+1268 The test fixture contains repeated words and predictable separators.
+1269 Each record is generated for a controlled compression experiment.
+1270 The report compares a byte histogram with repeated byte sequences.
+1271 No document in this dataset comes from a person or an organization.
+1272 The test fixture contains repeated words and predictable separators.
+1273 Each record is generated for a controlled compression experiment.
+1274 The report compares a byte histogram with repeated byte sequences.
+1275 No document in this dataset comes from a person or an organization.
+1276 The test fixture contains repeated words and predictable separators.
+1277 Each record is generated for a controlled compression experiment.
+1278 The report compares a byte histogram with repeated byte sequences.
+1279 No document in this dataset comes from a person or an organization.
+1280 The test fixture contains repeated words and predictable separators.
+1281 Each record is generated for a controlled compression experiment.
+1282 The report compares a byte histogram with repeated byte sequences.
+1283 No document in this dataset comes from a person or an organization.
+1284 The test fixture contains repeated words and predictable separators.
+1285 Each record is generated for a controlled compression experiment.
+1286 The report compares a byte histogram with repeated byte sequences.
+1287 No document in this dataset comes from a person or an organization.
+1288 The test fixture contains repeated words and predictable separators.
+1289 Each record is generated for a controlled compression experiment.
+1290 The report compares a byte histogram with repeated byte sequences.
+1291 No document in this dataset comes from a person or an organization.
+1292 The test fixture contains repeated words and predictable separators.
+1293 Each record is generated for a controlled compression experiment.
+1294 The report compares a byte histogram with repeated byte sequences.
+1295 No document in this dataset comes from a person or an organization.
+1296 The test fixture contains repeated words and predictable separators.
+1297 Each record is generated for a controlled compression experiment.
+1298 The report compares a byte histogram with repeated byte sequences.
+1299 No document in this dataset comes from a person or an organization.
+1300 The test fixture contains repeated words and predictable separators.
+1301 Each record is generated for a controlled compression experiment.
+1302 The report compares a byte histogram with repeated byte sequences.
+1303 No document in this dataset comes from a person or an organization.
+1304 The test fixture contains repeated words and predictable separators.
+1305 Each record is generated for a controlled compression experiment.
+1306 The report compares a byte histogram with repeated byte sequences.
+1307 No document in this dataset comes from a person or an organization.
+1308 The test fixture contains repeated words and predictable separators.
+1309 Each record is generated for a controlled compression experiment.
+1310 The report compares a byte histogram with repeated byte sequences.
+1311 No document in this dataset comes from a person or an organization.
+1312 The test fixture contains repeated words and predictable separators.
+1313 Each record is generated for a controlled compression experiment.
+1314 The report compares a byte histogram with repeated byte sequences.
+1315 No document in this dataset comes from a person or an organization.
+1316 The test fixture contains repeated words and predictable separators.
+1317 Each record is generated for a controlled compression experiment.
+1318 The report compares a byte histogram with repeated byte sequences.
+1319 No document in this dataset comes from a person or an organization.
+1320 The test fixture contains repeated words and predictable separators.
+1321 Each record is generated for a controlled compression experiment.
+1322 The report compares a byte histogram with repeated byte sequences.
+1323 No document in this dataset comes from a person or an organization.
+1324 The test fixture contains repeated words and predictable separators.
+1325 Each record is generated for a controlled compression experiment.
+1326 The report compares a byte histogram with repeated byte sequences.
+1327 No document in this dataset comes from a person or an organization.
+1328 The test fixture contains repeated words and predictable separators.
+1329 Each record is generated for a controlled compression experiment.
+1330 The report compares a byte histogram with repeated byte sequences.
+1331 No document in this dataset comes from a person or an organization.
+1332 The test fixture contains repeated words and predictable separators.
+1333 Each record is generated for a controlled compression experiment.
+1334 The report compares a byte histogram with repeated byte sequences.
+1335 No document in this dataset comes from a person or an organization.
+1336 The test fixture contains repeated words and predictable separators.
+1337 Each record is generated for a controlled compression experiment.
+1338 The report compares a byte histogram with repeated byte sequences.
+1339 No document in this dataset comes from a person or an organization.
+1340 The test fixture contains repeated words and predictable separators.
+1341 Each record is generated for a controlled compression experiment.
+1342 The report compares a byte histogram with repeated byte sequences.
+1343 No document in this dataset comes from a person or an organization.
+1344 The test fixture contains repeated words and predictable separators.
+1345 Each record is generated for a controlled compression experiment.
+1346 The report compares a byte histogram with repeated byte sequences.
+1347 No document in this dataset comes from a person or an organization.
+1348 The test fixture contains repeated words and predictable separators.
+1349 Each record is generated for a controlled compression experiment.
+1350 The report compares a byte histogram with repeated byte sequences.
+1351 No document in this dataset comes from a person or an organization.
+1352 The test fixture contains repeated words and predictable separators.
+1353 Each record is generated for a controlled compression experiment.
+1354 The report compares a byte histogram with repeated byte sequences.
+1355 No document in this dataset comes from a person or an organization.
+1356 The test fixture contains repeated words and predictable separators.
+1357 Each record is generated for a controlled compression experiment.
+1358 The report compares a byte histogram with repeated byte sequences.
+1359 No document in this dataset comes from a person or an organization.
+1360 The test fixture contains repeated words and predictable separators.
+1361 Each record is generated for a controlled compression experiment.
+1362 The report compares a byte histogram with repeated byte sequences.
+1363 No document in this dataset comes from a person or an organization.
+1364 The test fixture contains repeated words and predictable separators.
+1365 Each record is generated for a controlled compression experiment.
+1366 The report compares a byte histogram with repeated byte sequences.
+1367 No document in this dataset comes from a person or an organization.
+1368 The test fixture contains repeated words and predictable separators.
+1369 Each record is generated for a controlled compression experiment.
+1370 The report compares a byte histogram with repeated byte sequences.
+1371 No document in this dataset comes from a person or an organization.
+1372 The test fixture contains repeated words and predictable separators.
+1373 Each record is generated for a controlled compression experiment.
+1374 The report compares a byte histogram with repeated byte sequences.
+1375 No document in this dataset comes from a person or an organization.
+1376 The test fixture contains repeated words and predictable separators.
+1377 Each record is generated for a controlled compression experiment.
+1378 The report compares a byte histogram with repeated byte sequences.
+1379 No document in this dataset comes from a person or an organization.
+1380 The test fixture contains repeated words and predictable separators.
+1381 Each record is generated for a controlled compression experiment.
+1382 The report compares a byte histogram with repeated byte sequences.
+1383 No document in this dataset comes from a person or an organization.
+1384 The test fixture contains repeated words and predictable separators.
+1385 Each record is generated for a controlled compression experiment.
+1386 The report compares a byte histogram with repeated byte sequences.
+1387 No document in this dataset comes from a person or an organization.
+1388 The test fixture contains repeated words and predictable separators.
+1389 Each record is generated for a controlled compression experiment.
+1390 The report compares a byte histogram with repeated byte sequences.
+1391 No document in this dataset comes from a person or an organization.
+1392 The test fixture contains repeated words and predictable separators.
+1393 Each record is generated for a controlled compression experiment.
+1394 The report compares a byte histogram with repeated byte sequences.
+1395 No document in this dataset comes from a person or an organization.
+1396 The test fixture contains repeated words and predictable separators.
+1397 Each record is generated for a controlled compression experiment.
+1398 The report compares a byte histogram with repeated byte sequences.
+1399 No document in this dataset comes from a person or an organization.

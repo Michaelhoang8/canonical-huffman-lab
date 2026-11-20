@@ -1,0 +1,58 @@
+[
+  {
+    "name": "empty.bin",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "chuf_sha256": "1e3f6a78c05bec0c5c9c104efa128020396ed47e7d18ab4c5e4c5c551265f190",
+    "zlib_sha256": "b171e283c6145acf2b923098dbbc40ffc39b4f1db0212928f9869747376c4ac8"
+  },
+  {
+    "name": "small.txt",
+    "bytes": 26,
+    "sha256": "b457ab568f03595d3f9d573108b831a7fc194f851649961d0f09d95906ce53ae",
+    "chuf_sha256": "333a902f7d7f20ff8e34b7aaf93361c814e9befd624562c52c0c325cacbaae4d",
+    "zlib_sha256": "838f6c793ccdbe6e7a49f390a22a9d38df9fcea0815d7cc5d8f0fa1f9d295831"
+  },
+  {
+    "name": "single_symbol.bin",
+    "bytes": 65536,
+    "sha256": "156c38442089c1323d3e3ba549a6ac24341c47e8b6367bec4740c9b8c865826e",
+    "chuf_sha256": "ad6934eb330067cb7d60286dba926acf9181e27eadf0b76e98e3d8e6a8f37582",
+    "zlib_sha256": "c68bc6c175eb787fc840123ae345d41d82db1add8be7f3979dbb63e751b4dafb"
+  },
+  {
+    "name": "skewed_symbols.bin",
+    "bytes": 65536,
+    "sha256": "f11c8492d38e01fb54c73c1b22820b9dfcc58b26c250690df8cd8faaddb60631",
+    "chuf_sha256": "81ead282a78c97cef30229a777a37c87351154c8264b6a0dd858f1e679e86d2f",
+    "zlib_sha256": "8237cd603d11878cf69307b185454decdc018a38b192a95cda0e346611b4317d"
+  },
+  {
+    "name": "uniform_seeded.bin",
+    "bytes": 65536,
+    "sha256": "2e6057f9724745c9f30bf81823575b99422f5efa9d3aaa05e63e5e76ac24f5b0",
+    "chuf_sha256": "e2c146e18a40e97104b44e09f1461fde2344a49c21f125fdd3cfa911f8e31f0c",
+    "zlib_sha256": "8ed6d85e353fd9187d400ceba53e3deacd5be3085499b5ce6193b62f832d3c45"
+  },
+  {
+    "name": "byte_cycle.bin",
+    "bytes": 65536,
+    "sha256": "7daca2095d0438260fa849183dfc67faa459fdf4936e1bc91eec6b281b27e4c2",
+    "chuf_sha256": "0e2a342aaf5fc520ce290b0cda23fd996942e372cd163099fcebe00d060b273f",
+    "zlib_sha256": "a6276ce1a2cc35c9dcb30a30b80d287b8d3f3f462fd5f5b18d71b4b5b5d21e6a"
+  },
+  {
+    "name": "structured_records.jsonl",
+    "bytes": 128272,
+    "sha256": "2b9bc3f7438660ec35022462ef5c6ac7eb1a376ad792b8a1f937dc36e1d7a66b",
+    "chuf_sha256": "106ac89dcf8249067ebb8b5255c5900d1019a1cf903dfaed0be0bea14a5dc063",
+    "zlib_sha256": "f845840f3f1f1ff6b935e4fe188965df5b46d62990a32389620b165b118010a2"
+  },
+  {
+    "name": "repeated_text.txt",
+    "bytes": 101500,
+    "sha256": "a4e4a80b45eb6774e98ae21affc6933da586f0ce42c79b8994542913d1683fd1",
+    "chuf_sha256": "3753f3ff18f18a03c9644f929d0ae32aa7d193fc7bfeed752cbf2ab7dd301a7c",
+    "zlib_sha256": "daa19a32938e5c0433097ae11471d40735ab6d9a2db7c9cef26742510fc02389"
+  }
+]
