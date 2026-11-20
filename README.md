@@ -26,9 +26,12 @@ python -m pip install -e .
 python -m unittest discover -s tests -v
 python -m huffman_lab compress results/published/corpora/small.txt sample.chuf
 python -m huffman_lab decompress sample.chuf restored.txt
+python -m huffman_lab inspect sample.chuf
 ```
 
 The equivalent installed command is `chuf`. It refuses to overwrite an existing output file. Default limits are 16 MiB of original/decoded data and 32 MiB of encoded input. Decompression can set a different output cap with `--max-output BYTES`; increasing it changes the resource budget.
+
+`inspect` fully validates the payload and CRC, then prints JSON describing the original/container sizes, header overhead, exact bit count, padding and checksum. It does not create a decoded file. Invalid payloads fail with exit code 2; the same decoded-size limit applies.
 
 ## Reproduce the evidence
 
@@ -79,7 +82,7 @@ The timing comparison includes Python-versus-native implementation differences. 
 
 ## Validation
 
-The 13-test suite includes 250 seeded roundtrip cases, 500 random malformed headers, rejection of every truncated prefix of a valid fixture, independent ABBA container bytes, a separately constructed complete tree with 255-bit codes, and exhaustive minimum weighted prefix lengths for seven small frequency distributions. Artifact checks recompute decoded bytes, hashes, entropy, sizes, ratios, medians and timing ranges, and verify captured media integrity. CI validates the preserved run and a separate fresh experiment.
+The 14-test suite includes 250 seeded roundtrip cases, 500 random malformed headers, rejection of every truncated prefix of a valid fixture, independent ABBA container bytes, a separately constructed complete tree with 255-bit codes, and exhaustive minimum weighted prefix lengths for seven small frequency distributions. Artifact checks recompute decoded bytes, hashes, entropy, sizes, ratios, medians and timing ranges, and verify captured media integrity. CI validates the preserved run and a separate fresh experiment.
 
 ## Layout
 
