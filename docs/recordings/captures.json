@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-11-20T23:11:33.951862+00:00",
+  "captured_at_utc": "2026-11-21T01:06:17.044163+00:00",
   "source": "Actual browser rendering of docs/report.html",
   "recording": "Continuous automated browser review; not manual development footage",
   "viewport": {
@@ -7,23 +7,23 @@
     "height": 1000
   },
   "page_title": "Canonical Huffman codec | Technical study",
-  "report_sha256_normalized_text": "530bf9665edee7c5e7f945cf45195798b0a543ccce103c8b388d4ca81a89306c",
-  "video_sha256": "d577a6f10342d98ff3faf4530f59dedaab1db98ef2754bab444aa70b5bc3bc99",
+  "report_sha256_normalized_text": "0e48165dd0b8d5f2207a6b1e9d80b464f41a8f174f50be207547d4757c52be00",
+  "video_sha256": "0b9f710fe03569a3684a58283714023571b7743fec07ff99623b9f18c80685b3",
   "captures": [
     {
       "path": "docs/screenshots/01_overview.png",
       "section": "overview",
-      "sha256": "0368f15354718c6fae58c74fb69e1f23077b5fe686c0575244141e530448fee1"
+      "sha256": "8232689d7dd1d6ac162cc8fa169a6d80249be535fbab18ebb005b531ffe42ebc"
     },
     {
       "path": "docs/screenshots/02_sizes.png",
       "section": "sizes",
-      "sha256": "3bcaaa0efae3517646cec4d9345f2feb7350bc7e2f76bf48080e03f2e29276df"
+      "sha256": "c4de6932ef95fe7c7760c00f21f0917212250f59fd521adf630eba9dc282198d"
     },
     {
       "path": "docs/screenshots/03_entropy.png",
       "section": "entropy",
-      "sha256": "419bacabe9083e0dc0485767c12a12bac5f4bbf280b22b199c6700b1782805cf"
+      "sha256": "2499b4092c77b827000d9d7d9696d207636879adbfde3f88dfa3c99f194736da"
     },
     {
       "path": "docs/screenshots/04_format.png",
@@ -33,7 +33,7 @@
     {
       "path": "docs/screenshots/05_runtime.png",
       "section": "runtime",
-      "sha256": "e0fd3df7b72fb3361d68bf7d2e6ae08644867da9bbc19c2fb789c1a9af366a81"
+      "sha256": "b5b01cd78ca31f135573ad72c1cc8c82f9c09fcdbe2c8890cac20d4c2ddc9b59"
     },
     {
       "path": "docs/screenshots/06_validation.png",
