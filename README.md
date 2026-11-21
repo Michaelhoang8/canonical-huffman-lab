@@ -1,5 +1,7 @@
 # Canonical Huffman lab
 
+**[View the report in your browser](https://Michaelhoang8.github.io/canonical-huffman-lab/)**
+
 A byte compression codec implemented from source, with a documented binary container, strict decoder validation, and a measured comparison against Python's native zlib wrapper. The core codec uses only the Python standard library; its Huffman coding is implemented here rather than delegated to a compression library.
 
 [Open the report](docs/report.html) · [Binary format](docs/format.md) · [Methodology](docs/methodology.md) · [Findings](docs/findings.md) · [Raw measurements](results/published/measurements.csv)
